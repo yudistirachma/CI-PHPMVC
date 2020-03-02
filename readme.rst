@@ -4,6 +4,7 @@ CI-PHPMVC
 This web aplication build for managing student university data and peopels 
 
 this aplication created using :
+
 - codeigniter 3 
 - boostrap 4
 - sweetalert
@@ -12,6 +13,7 @@ this aplication created using :
 - and other
 
 this aplication have features :
+
 - data searching 
 - pagination
 - form validation
