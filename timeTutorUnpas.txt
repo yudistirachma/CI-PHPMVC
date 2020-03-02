@@ -1,0 +1,2 @@
+14:14 menghilangan default url inedx.php dengan file htaccess
+20:22 mengubah default route ci pada file route
